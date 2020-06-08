@@ -1,0 +1,16 @@
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.Contract\bin\Debug\netstandard2.0\MySystem.BL.Contract.deps.json
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.Contract\bin\Debug\netstandard2.0\MySystem.BL.Contract.dll
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.Contract\bin\Debug\netstandard2.0\MySystem.BL.Contract.pdb
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.Contract\bin\Debug\netstandard2.0\MySystem.BL.DomainEvents.dll
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.Contract\bin\Debug\netstandard2.0\MySystem.DAL.Contract.dll
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.Contract\bin\Debug\netstandard2.0\MySystem.DAL.Entities.dll
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.Contract\bin\Debug\netstandard2.0\MySystem.BL.DomainEvents.pdb
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.Contract\bin\Debug\netstandard2.0\MySystem.DAL.Contract.pdb
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.Contract\bin\Debug\netstandard2.0\MySystem.DAL.Entities.pdb
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.Contract\obj\Debug\netstandard2.0\MySystem.BL.Contract.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.Contract\obj\Debug\netstandard2.0\MySystem.BL.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.Contract\obj\Debug\netstandard2.0\MySystem.BL.Contract.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.Contract\obj\Debug\netstandard2.0\MySystem.BL.Contract.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.Contract\obj\Debug\netstandard2.0\MySystem.BL.Contract.csproj.CopyComplete
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.Contract\obj\Debug\netstandard2.0\MySystem.BL.Contract.dll
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.Contract\obj\Debug\netstandard2.0\MySystem.BL.Contract.pdb

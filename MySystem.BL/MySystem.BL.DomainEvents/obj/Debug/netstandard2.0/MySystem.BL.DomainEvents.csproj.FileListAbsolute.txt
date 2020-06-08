@@ -1,0 +1,14 @@
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.DomainEvents\bin\Debug\netstandard2.0\MySystem.BL.DomainEvents.deps.json
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.DomainEvents\bin\Debug\netstandard2.0\MySystem.BL.DomainEvents.dll
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.DomainEvents\bin\Debug\netstandard2.0\MySystem.BL.DomainEvents.pdb
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.DomainEvents\bin\Debug\netstandard2.0\MySystem.DAL.Contract.dll
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.DomainEvents\bin\Debug\netstandard2.0\MySystem.DAL.Entities.dll
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.DomainEvents\bin\Debug\netstandard2.0\MySystem.DAL.Contract.pdb
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.DomainEvents\bin\Debug\netstandard2.0\MySystem.DAL.Entities.pdb
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.DomainEvents\obj\Debug\netstandard2.0\MySystem.BL.DomainEvents.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.DomainEvents\obj\Debug\netstandard2.0\MySystem.BL.DomainEvents.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.DomainEvents\obj\Debug\netstandard2.0\MySystem.BL.DomainEvents.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.DomainEvents\obj\Debug\netstandard2.0\MySystem.BL.DomainEvents.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.DomainEvents\obj\Debug\netstandard2.0\MySystem.BL.DomainEvents.csproj.CopyComplete
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.DomainEvents\obj\Debug\netstandard2.0\MySystem.BL.DomainEvents.dll
+C:\Users\Vlad\source\repos\MySystem.BL\MySystem.BL.DomainEvents\obj\Debug\netstandard2.0\MySystem.BL.DomainEvents.pdb

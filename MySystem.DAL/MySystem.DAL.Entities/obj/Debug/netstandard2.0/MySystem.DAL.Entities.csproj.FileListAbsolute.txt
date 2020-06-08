@@ -1,0 +1,9 @@
+C:\Users\Vlad\source\repos\MySystem.DAL\MySystem.DAL.Entities\bin\Debug\netstandard2.0\MySystem.DAL.Entities.deps.json
+C:\Users\Vlad\source\repos\MySystem.DAL\MySystem.DAL.Entities\bin\Debug\netstandard2.0\MySystem.DAL.Entities.dll
+C:\Users\Vlad\source\repos\MySystem.DAL\MySystem.DAL.Entities\bin\Debug\netstandard2.0\MySystem.DAL.Entities.pdb
+C:\Users\Vlad\source\repos\MySystem.DAL\MySystem.DAL.Entities\obj\Debug\netstandard2.0\MySystem.DAL.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\MySystem.DAL\MySystem.DAL.Entities\obj\Debug\netstandard2.0\MySystem.DAL.Entities.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\MySystem.DAL\MySystem.DAL.Entities\obj\Debug\netstandard2.0\MySystem.DAL.Entities.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\MySystem.DAL\MySystem.DAL.Entities\obj\Debug\netstandard2.0\MySystem.DAL.Entities.dll
+C:\Users\Vlad\source\repos\MySystem.DAL\MySystem.DAL.Entities\obj\Debug\netstandard2.0\MySystem.DAL.Entities.pdb
+C:\Users\Vlad\source\repos\MySystem.DAL\MySystem.DAL.Entities\obj\Debug\netstandard2.0\MySystem.DAL.Entities.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Configuration\bin\Debug\netstandard2.0\MySystem.Service.Configuration.deps.json
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Configuration\bin\Debug\netstandard2.0\MySystem.Service.Configuration.dll
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Configuration\bin\Debug\netstandard2.0\MySystem.Service.Configuration.pdb
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Configuration\obj\Debug\netstandard2.0\MySystem.Service.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Configuration\obj\Debug\netstandard2.0\MySystem.Service.Configuration.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Configuration\obj\Debug\netstandard2.0\MySystem.Service.Configuration.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Configuration\obj\Debug\netstandard2.0\MySystem.Service.Configuration.dll
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Configuration\obj\Debug\netstandard2.0\MySystem.Service.Configuration.pdb
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Configuration\obj\Debug\netstandard2.0\MySystem.Service.Configuration.csprojAssemblyReference.cache

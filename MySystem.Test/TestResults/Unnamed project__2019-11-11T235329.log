@@ -1,0 +1,43 @@
+﻿2019-11-11T23:53:29.8664245+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-11-11T23:53:29.8664245+02:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework netcore22 in x64 mode execution started
+2019-11-11T23:53:29.8664245+02:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Vlad\source\repos\MySystem.Test\MySystem.Test.BDD\bin\Debug\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-11-11T23:53:29.8984263+02:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Vlad\source\repos\MySystem.Test\MySystem.Test.BDD\bin\Debug\netcoreapp2.2\MySystem.Test.BDDLogin.dll
+2019-11-11T23:53:29.8984263+02:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Vlad\source\repos\MySystem.Test\TestResults" (default)
+2019-11-11T23:53:29.8994264+02:00;VSTestExecutionThread;Info;Profile: 
+2019-11-11T23:53:29.9394287+02:00;VSTestExecutionThread;Info;Log file path: C:\Users\Vlad\source\repos\MySystem.Test\TestResults\Unnamed project__2019-11-11T235329.log
+2019-11-11T23:53:29.9494293+02:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-11-11T23:53:29.9584298+02:00;Thread#12;Info;Checking license
+2019-11-11T23:53:29.9874314+02:00;Thread#12;Info;Evaluation mode: test execution starts in 14 seconds... (this delay is removed in the registered version)
+2019-11-11T23:53:43.9882322+02:00;Thread#12;Info;Evaluation delay finished.
+2019-11-11T23:53:44.0102335+02:00;Thread#12;Info;License check completed
+2019-11-11T23:53:44.0112335+02:00;Thread#12;Info;starting test run
+2019-11-11T23:53:44.0312347+02:00;Thread#12;Info;Discovering target: Default
+2019-11-11T23:53:44.0312347+02:00;Thread#12;Info;Discovering tests from assembly: C:\Users\Vlad\source\repos\MySystem.Test\MySystem.Test.BDD\bin\Debug\netcoreapp2.2\MySystem.Test.BDDLogin.dll
+2019-11-11T23:53:44.2322462+02:00;Thread#12;Info;Discovered tests from assembly: C:\Users\Vlad\source\repos\MySystem.Test\MySystem.Test.BDD\bin\Debug\netcoreapp2.2\MySystem.Test.BDDLogin.dll
+2019-11-11T23:53:44.2342463+02:00:Test Suite Dump
+2019-11-11T23:53:44.2382465+02:00:#0: Unnamed project/ - 
+2019-11-11T23:53:44.2392466+02:00:End: Test Suite Dump
+2019-11-11T23:53:44.2742486+02:00:Thread#0:Scheduler: get next test for thread 0
+2019-11-11T23:53:44.2782488+02:00:Thread#:Scheduler: at the end of normal test queue
+2019-11-11T23:53:44.2782488+02:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-11-11T23:53:44.2782488+02:00:Thread#0:Scheduler: No more tests for thread
+2019-11-11T23:53:44.2952498+02:00:Thread#-1:Scheduler: get next test for thread -1
+2019-11-11T23:53:44.2952498+02:00:Thread#:Scheduler: at the end of normal test queue
+2019-11-11T23:53:44.2952498+02:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-11-11T23:53:44.2982500+02:00;Thread#12;Info;test run finished
+2019-11-11T23:53:44.2982500+02:00;Thread#12;Info;publishing test results
+2019-11-11T23:53:44.2982500+02:00;Thread#12;Info;Not publishing results.
+2019-11-11T23:53:44.2982500+02:00;Thread#12;Info;test results published
+2019-11-11T23:53:44.2992500+02:00;Thread#12;Info;generating reports
+2019-11-11T23:53:44.4022559+02:00;Thread#12;Info;Starting external report generation process
+2019-11-11T23:53:47.0274061+02:00;Thread#12;Error;Could not generate test run result reports. An error occurred in the generator.
+2019-11-11T23:53:47.0274061+02:00;Thread#12;Error;External program returned exit code '-2'
+2019-11-11T23:53:47.0284061+02:00;Thread#12;Info;Failed generating reports
+2019-11-11T23:53:47.0394067+02:00:Total: 0
+2019-11-11T23:53:47.0434070+02:00:Succeeded: 0
+2019-11-11T23:53:47.0444070+02:00:Ignored: 0
+2019-11-11T23:53:47.0454071+02:00:Pending: 0
+2019-11-11T23:53:47.0474072+02:00:Skipped: 0
+2019-11-11T23:53:47.0474072+02:00:Failed: 0
+2019-11-11T23:53:47.0604079+02:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

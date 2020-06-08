@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MySystem.BL.Contract\MySystem.BL.Contract.csproj" />
+    <ProjectReference Include="..\MySystem.BL.DomainEvents\MySystem.BL.DomainEvents.csproj" />
+  </ItemGroup>
+
+</Project>

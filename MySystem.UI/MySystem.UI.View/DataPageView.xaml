@@ -1,0 +1,163 @@
+﻿<UserControl x:Class="MySystem.UI.View.DataPageView"
+     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+     xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+     xmlns:local="clr-namespace:MySystem.UI.View"
+     xmlns:sys="clr-namespace:System;assembly=mscorlib"
+     mc:Ignorable="d" 
+     d:DesignHeight="600" d:DesignWidth="400">
+
+    <UserControl.Resources>
+        <Image x:Key="BackImage" Source="C:\Users\Vlad\Desktop\img_70486.png"/>
+    </UserControl.Resources>
+
+    <Grid HorizontalAlignment="Left" VerticalAlignment="Center">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        
+        <StackPanel Margin="0 0 0 0" 
+                    Width="80" 
+                    Height="720" 
+                    HorizontalAlignment="Left" 
+                    VerticalAlignment="Top"
+                    Background="SlateGray"
+                    Grid.Column="0" >
+            <Button x:Name="ExitBtn" 
+                    Width="70"
+                    Background="Transparent"
+                    Margin="0 30 0 0"
+                    Focusable="False"
+                    BorderThickness="0"
+                    Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}"
+                    Command="{Binding ExitCommand}"
+                    Content="{StaticResource BackImage}"/>
+        </StackPanel>
+
+        <Grid Margin="0 0 0 0" 
+              HorizontalAlignment="Center"
+              Grid.Column="1" 
+              Grid.ColumnSpan="6">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            
+            <StackPanel Margin="0,0,0,0" 
+                        HorizontalAlignment="Center" 
+                        VerticalAlignment="Center"
+                        Grid.Column="0"
+                        Grid.ColumnSpan="3">
+
+                <Grid Width="250" Margin="0 0 0 0">
+                    <Label x:Name="lblTopic"
+                           Margin="-25 0 0 0"
+                           Foreground="Black"
+                           Content="Topic:">
+                    </Label>
+
+                    <TextBox x:Name="topicTxt"
+                             Margin="30 0 30 0" 
+                             Text="{Binding Path=Topic,
+                                    UpdateSourceTrigger=PropertyChanged,
+                                    ValidatesOnDataErrors=True,
+                                    NotifyOnValidationError=True,
+                                    Mode=OneWay}" >
+                    </TextBox>
+                </Grid>
+
+                <Grid Width="300" Margin="0 0 0 0">
+                    <Label x:Name="lblTopicError"
+                       Margin="0 0 0 0"
+                       Foreground="Coral"
+                       HorizontalAlignment="Center"
+                       Content="">
+                    </Label>
+                </Grid>
+
+                <Grid Width="250" Margin="0 0 0 0">
+                    <Label x:Name="lblText"
+                           Margin="-25 0 0 0"
+                           Foreground="Black"
+                           Content="Text:">
+                    </Label>
+
+                    <TextBox x:Name="textTxt"
+                             Height="70"
+                             Margin="30 0 30 0" 
+                             Text="{Binding Path=Text,
+                                    UpdateSourceTrigger=PropertyChanged,
+                                    ValidatesOnDataErrors=True,
+                                    NotifyOnValidationError=True,
+                                    Mode=OneWay}" >
+                    </TextBox>
+                </Grid>
+
+                <Grid Width="300" Margin="0 0 0 0">
+                    <Label x:Name="lblTextError"
+                       Margin="0 0 0 0"
+                       Foreground="Coral"
+                       HorizontalAlignment="Center"
+                       Content="">
+                    </Label>
+                </Grid>
+
+                <Grid Width="250" Margin="0 5 0 0">
+                    <Label x:Name="lblDate"
+                           Margin="-25 0 0 0"
+                           Foreground="Black"
+                           Content="Date:">
+                    </Label>
+
+                    <Calendar x:Name="dateCalendar" 
+                              SelectedDate="{x:Static sys:DateTime.Now}"/>
+                </Grid>
+
+                <Grid Width="300" Margin="0 10 0 0">
+                    <Button x:Name="OkBtn" 
+                        Background="White"
+                        Grid.Column="0"
+                        Margin="70 0 70 0"
+                        Command="{Binding ExecuteCommand}"
+                        Content="OK"/>
+                </Grid>
+            </StackPanel>
+            
+            <StackPanel Margin="0,0,0,0" 
+                        HorizontalAlignment="Center" 
+                        VerticalAlignment="Center"
+                        Grid.Column="4"
+                        Grid.ColumnSpan="3">
+                <Grid Width="200" Margin="0 -30 0 0">
+                    <Label x:Name="lblImage"
+                           Margin="-25 0 0 0"
+                           Foreground="Black"
+                           Content="Image:">
+                    </Label>
+
+                    <Image x:Name="imageImage"
+                           Height="200"
+                           Width="150"/>
+
+                    <Button x:Name="BrowseBtn" 
+                        Background="White"
+                        Height="30"
+                        Width="60"
+                        Margin="0 300 0 0"
+                        Command="{Binding BrowseCommand}"
+                        Content="Browse"/>
+                </Grid>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</UserControl>

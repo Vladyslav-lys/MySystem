@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\MySystem.BL\MySystem.BL.Activities\MySystem.BL.Activities.csproj" />
+    <ProjectReference Include="..\..\MySystem.BL\MySystem.BL.Rules\MySystem.BL.Rules.csproj" />
+    <ProjectReference Include="..\..\MySystem.BL\MySystem.BL.UseCases\MySystem.BL.UseCases.csproj" />
+    <ProjectReference Include="..\..\MySystem.DAL\MySystem.DAL.Entities\MySystem.DAL.Entities.csproj" />
+    <ProjectReference Include="..\..\MySystem.DAL\MySystem.DAL.Repositories\MySystem.DAL.Repositories.csproj" />
+    <ProjectReference Include="..\MySystem.Service.Configuration\MySystem.Service.Configuration.csproj" />
+    <ProjectReference Include="..\MySystem.Service.Contract\MySystem.Service.Contract.csproj" />
+  </ItemGroup>
+
+</Project>

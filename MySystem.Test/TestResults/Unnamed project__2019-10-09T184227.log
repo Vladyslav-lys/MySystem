@@ -1,0 +1,10 @@
+﻿2019-10-09T18:42:27.2922144+03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-09T18:42:27.2922144+03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework netcore22 in x64 mode execution started
+2019-10-09T18:42:27.2922144+03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Vlad\source\repos\MySystem.Test\MySystem.Test.BL\bin\Debug\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-09T18:42:27.3212161+03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Vlad\source\repos\MySystem.Test\MySystem.Test.BL\bin\Debug\netcoreapp2.2\MySystem.Test.BL.dll
+2019-10-09T18:42:27.3222161+03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Vlad\source\repos\MySystem.Test\TestResults" (default)
+2019-10-09T18:42:27.3222161+03:00;VSTestExecutionThread;Info;Profile: 
+2019-10-09T18:42:27.3992205+03:00;VSTestExecutionThread;Info;Log file path: C:\Users\Vlad\source\repos\MySystem.Test\TestResults\Unnamed project__2019-10-09T184227.log
+2019-10-09T18:42:27.4152214+03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-09T18:42:27.4252220+03:00;Thread#12;Info;Checking license
+2019-10-09T18:42:27.4762249+03:00;Thread#12;Info;Evaluation mode: test execution starts in 13 seconds... (this delay is removed in the registered version)

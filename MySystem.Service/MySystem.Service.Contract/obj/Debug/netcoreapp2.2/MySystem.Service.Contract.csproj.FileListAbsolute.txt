@@ -1,0 +1,16 @@
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Contract\bin\Debug\netcoreapp2.2\MySystem.Service.Domain.dll
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Contract\obj\Debug\netcoreapp2.2\MySystem.Service.Contract.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Contract\obj\Debug\netcoreapp2.2\MySystem.Service.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Contract\obj\Debug\netcoreapp2.2\MySystem.Service.Contract.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Contract\obj\Debug\netcoreapp2.2\MySystem.Service.Contract.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Contract\bin\Debug\netcoreapp2.2\MySystem.Service.Contract.deps.json
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Contract\bin\Debug\netcoreapp2.2\MySystem.Service.Contract.runtimeconfig.json
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Contract\bin\Debug\netcoreapp2.2\MySystem.Service.Contract.runtimeconfig.dev.json
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Contract\bin\Debug\netcoreapp2.2\MySystem.Service.Contract.dll
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Contract\bin\Debug\netcoreapp2.2\MySystem.Service.Contract.pdb
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Contract\bin\Debug\netcoreapp2.2\MySystem.Service.Domain.pdb
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Contract\obj\Debug\netcoreapp2.2\MySystem.Service.Contract.csproj.CopyComplete
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Contract\obj\Debug\netcoreapp2.2\MySystem.Service.Contract.dll
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Contract\obj\Debug\netcoreapp2.2\MySystem.Service.Contract.pdb
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Contract\bin\Debug\netcoreapp2.2\MySystem.DAL.Entities.dll
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Contract\bin\Debug\netcoreapp2.2\MySystem.DAL.Entities.pdb

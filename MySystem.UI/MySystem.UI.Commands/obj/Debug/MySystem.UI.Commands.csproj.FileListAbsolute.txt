@@ -1,0 +1,6 @@
+C:\Users\Vlad\source\repos\MySystem.UI\MySystem.UI.Commands\bin\Debug\MySystem.UI.Commands.dll
+C:\Users\Vlad\source\repos\MySystem.UI\MySystem.UI.Commands\bin\Debug\MySystem.UI.Commands.pdb
+C:\Users\Vlad\source\repos\MySystem.UI\MySystem.UI.Commands\obj\Debug\MySystem.UI.Commands.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\MySystem.UI\MySystem.UI.Commands\obj\Debug\MySystem.UI.Commands.dll
+C:\Users\Vlad\source\repos\MySystem.UI\MySystem.UI.Commands\obj\Debug\MySystem.UI.Commands.pdb
+C:\Users\Vlad\source\repos\MySystem.UI\MySystem.UI.Commands\obj\Debug\MySystem.UI.Commands.csprojAssemblyReference.cache

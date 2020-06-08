@@ -1,0 +1,9 @@
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Domain\bin\Debug\netstandard2.0\MySystem.Service.Domain.deps.json
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Domain\bin\Debug\netstandard2.0\MySystem.Service.Domain.dll
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Domain\bin\Debug\netstandard2.0\MySystem.Service.Domain.pdb
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Domain\obj\Debug\netstandard2.0\MySystem.Service.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Domain\obj\Debug\netstandard2.0\MySystem.Service.Domain.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Domain\obj\Debug\netstandard2.0\MySystem.Service.Domain.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Domain\obj\Debug\netstandard2.0\MySystem.Service.Domain.dll
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Domain\obj\Debug\netstandard2.0\MySystem.Service.Domain.pdb
+C:\Users\Vlad\source\repos\MySystem.Service\MySystem.Service.Domain\obj\Debug\netstandard2.0\MySystem.Service.Domain.csprojAssemblyReference.cache

@@ -1,0 +1,43 @@
+﻿2019-10-09T20:12:37.1942082+03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-10-09T20:12:37.1942082+03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework netcore22 in x64 mode execution started
+2019-10-09T20:12:37.1942082+03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Vlad\source\repos\MySystem.Test\MySystem.Test.DAL\bin\Debug\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-10-09T20:12:37.2312103+03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Vlad\source\repos\MySystem.Test\MySystem.Test.DAL\bin\Debug\netcoreapp2.2\MySystem.Test.DAL.dll
+2019-10-09T20:12:37.2312103+03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Vlad\source\repos\MySystem.Test\TestResults" (default)
+2019-10-09T20:12:37.2312103+03:00;VSTestExecutionThread;Info;Profile: 
+2019-10-09T20:12:37.2732127+03:00;VSTestExecutionThread;Info;Log file path: C:\Users\Vlad\source\repos\MySystem.Test\TestResults\Unnamed project__2019-10-09T201237.log
+2019-10-09T20:12:37.2832133+03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-10-09T20:12:37.2922138+03:00;Thread#12;Info;Checking license
+2019-10-09T20:12:37.3152151+03:00;Thread#12;Info;Evaluation mode: test execution starts in 9 seconds... (this delay is removed in the registered version)
+2019-10-09T20:12:46.3167300+03:00;Thread#12;Info;Evaluation delay finished.
+2019-10-09T20:12:46.3277306+03:00;Thread#12;Info;License check completed
+2019-10-09T20:12:46.3317308+03:00;Thread#12;Info;starting test run
+2019-10-09T20:12:46.3427315+03:00;Thread#12;Info;Discovering target: Default
+2019-10-09T20:12:46.3427315+03:00;Thread#12;Info;Discovering tests from assembly: C:\Users\Vlad\source\repos\MySystem.Test\MySystem.Test.DAL\bin\Debug\netcoreapp2.2\MySystem.Test.DAL.dll
+2019-10-09T20:12:46.4917400+03:00;Thread#12;Info;Discovered tests from assembly: C:\Users\Vlad\source\repos\MySystem.Test\MySystem.Test.DAL\bin\Debug\netcoreapp2.2\MySystem.Test.DAL.dll
+2019-10-09T20:12:46.4927400+03:00:Test Suite Dump
+2019-10-09T20:12:46.4957402+03:00:#0: Unnamed project/ - 
+2019-10-09T20:12:46.4957402+03:00:End: Test Suite Dump
+2019-10-09T20:12:46.5237418+03:00:Thread#0:Scheduler: get next test for thread 0
+2019-10-09T20:12:46.5267420+03:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-09T20:12:46.5267420+03:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-10-09T20:12:46.5277420+03:00:Thread#0:Scheduler: No more tests for thread
+2019-10-09T20:12:46.5397427+03:00:Thread#-1:Scheduler: get next test for thread -1
+2019-10-09T20:12:46.5397427+03:00:Thread#:Scheduler: at the end of normal test queue
+2019-10-09T20:12:46.5397427+03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-10-09T20:12:46.5417428+03:00;Thread#12;Info;test run finished
+2019-10-09T20:12:46.5427429+03:00;Thread#12;Info;publishing test results
+2019-10-09T20:12:46.5427429+03:00;Thread#12;Info;Not publishing results.
+2019-10-09T20:12:46.5427429+03:00;Thread#12;Info;test results published
+2019-10-09T20:12:46.5427429+03:00;Thread#12;Info;generating reports
+2019-10-09T20:12:46.6727503+03:00;Thread#12;Info;Starting external report generation process
+2019-10-09T20:12:48.7798709+03:00;Thread#12;Error;Could not generate test run result reports. An error occurred in the generator.
+2019-10-09T20:12:48.7808709+03:00;Thread#12;Error;External program returned exit code '-2'
+2019-10-09T20:12:48.7808709+03:00;Thread#12;Info;Failed generating reports
+2019-10-09T20:12:48.7908715+03:00:Total: 0
+2019-10-09T20:12:48.7938717+03:00:Succeeded: 0
+2019-10-09T20:12:48.7948717+03:00:Ignored: 0
+2019-10-09T20:12:48.7958718+03:00:Pending: 0
+2019-10-09T20:12:48.7968718+03:00:Skipped: 0
+2019-10-09T20:12:48.7978719+03:00:Failed: 0
+2019-10-09T20:12:48.8108726+03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

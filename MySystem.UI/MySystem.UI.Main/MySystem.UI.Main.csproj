@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4488747C-7F00-4F96-BA78-537A1631A801}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MySystem.UI.Main</RootNamespace>
+    <AssemblyName>MySystem.UI.Main</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ComponentsController.cs" />
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\MySystem.BL\MySystem.BL.Contract\MySystem.BL.Contract.csproj">
+      <Project>{35275dd2-8a3f-4a80-ab70-763b6d345899}</Project>
+      <Name>MySystem.BL.Contract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\MySystem.BL\MySystem.BL.Rules\MySystem.BL.Rules.csproj">
+      <Project>{3005debe-b6da-4b08-a9cf-8ad86d249273}</Project>
+      <Name>MySystem.BL.Rules</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\MySystem.Client\MySystem.Client.Contract\MySystem.Client.Contract.csproj">
+      <Project>{20d44fc9-a82d-445b-a4a5-cf925bae333d}</Project>
+      <Name>MySystem.Client.Contract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\MySystem.Client\MySystem.Client.Main\MySystem.Client.Main.csproj">
+      <Project>{f0d924df-5df3-4467-9c91-a2c1cce1b668}</Project>
+      <Name>MySystem.Client.Main</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\MySystem.Service\MySystem.Service.Domain\MySystem.Service.Domain.csproj">
+      <Project>{4478af27-c8a2-4a3f-9b08-04d2baa3ab13}</Project>
+      <Name>MySystem.Service.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MySystem.UI.Contract\MySystem.UI.Contract.csproj">
+      <Project>{592d7ad8-bd76-45e7-9d50-aa7c0fdd6dbf}</Project>
+      <Name>MySystem.UI.Contract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MySystem.UI.ViewModel\MySystem.UI.ViewModel.csproj">
+      <Project>{2439fa99-5b50-4873-8fb9-b4278b146eb3}</Project>
+      <Name>MySystem.UI.ViewModel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MySystem.UI.View\MySystem.UI.View.csproj">
+      <Project>{c69ad85c-fbdc-4ccc-91f6-5d9deaed0898}</Project>
+      <Name>MySystem.UI.View</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

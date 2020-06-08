@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MySystem.DAL.Contexts\MySystem.DAL.Contexts.csproj" />
+    <ProjectReference Include="..\MySystem.DAL.Contract\MySystem.DAL.Contract.csproj" />
+    <ProjectReference Include="..\MySystem.DAL.Entities\MySystem.DAL.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

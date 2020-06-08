@@ -1,0 +1,12 @@
+C:\Users\Vlad\source\repos\MySystem.DAL\MySystem.DAL.Contexts\bin\Debug\netcoreapp2.2\MySystem.DAL.Contexts.deps.json
+C:\Users\Vlad\source\repos\MySystem.DAL\MySystem.DAL.Contexts\bin\Debug\netcoreapp2.2\MySystem.DAL.Contexts.dll
+C:\Users\Vlad\source\repos\MySystem.DAL\MySystem.DAL.Contexts\bin\Debug\netcoreapp2.2\MySystem.DAL.Entities.dll
+C:\Users\Vlad\source\repos\MySystem.DAL\MySystem.DAL.Contexts\bin\Debug\netcoreapp2.2\MySystem.DAL.Entities.pdb
+C:\Users\Vlad\source\repos\MySystem.DAL\MySystem.DAL.Contexts\obj\Debug\netcoreapp2.2\MySystem.DAL.Contexts.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\MySystem.DAL\MySystem.DAL.Contexts\obj\Debug\netcoreapp2.2\MySystem.DAL.Contexts.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\MySystem.DAL\MySystem.DAL.Contexts\obj\Debug\netcoreapp2.2\MySystem.DAL.Contexts.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\MySystem.DAL\MySystem.DAL.Contexts\obj\Debug\netcoreapp2.2\MySystem.DAL.Contexts.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\MySystem.DAL\MySystem.DAL.Contexts\obj\Debug\netcoreapp2.2\MySystem.DAL.Contexts.csproj.CopyComplete
+C:\Users\Vlad\source\repos\MySystem.DAL\MySystem.DAL.Contexts\bin\Debug\netcoreapp2.2\MySystem.DAL.Contexts.pdb
+C:\Users\Vlad\source\repos\MySystem.DAL\MySystem.DAL.Contexts\obj\Debug\netcoreapp2.2\MySystem.DAL.Contexts.dll
+C:\Users\Vlad\source\repos\MySystem.DAL\MySystem.DAL.Contexts\obj\Debug\netcoreapp2.2\MySystem.DAL.Contexts.pdb
